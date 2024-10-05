@@ -1,4 +1,5 @@
 # TinySegmenter
+The super compact Japanese tokenizer in Gdscript for the Godot Engine.
 A clone of TinySegmenter written in gdscript for godot engine, originally created by (c) 2008 Taku Kudo for javascript.
 
 The code is based off https://github.com/leungwensen/tiny-segmenter
