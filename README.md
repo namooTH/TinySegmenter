@@ -4,7 +4,7 @@ A clone of TinySegmenter written in gdscript for godot engine, originally create
 The code is based off https://github.com/leungwensen/tiny-segmenter
 
 [Example](example.gd)
-```
+```gdscript
 var tinySegmenter = preload("res://tinySegmenter/tiny_segmenter.gd").new()
 func _ready():
 	print(tinySegmenter.segment("おなまえと　おでんわばんごう、おねがい　いたします。"))
