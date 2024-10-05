@@ -3,7 +3,7 @@ The super compact Japanese tokenizer in Gdscript for the Godot Engine.
 
 This is a clone of TinySegmenter written in gdscript for godot engine, originally created by (c) 2008 Taku Kudo for javascript.
 
-The code is based off https://github.com/leungwensen/tiny-segmenter
+The code is based off/ported from https://github.com/leungwensen/tiny-segmenter
 
 # [Example/Usage](example.gd)
 ```gdscript
